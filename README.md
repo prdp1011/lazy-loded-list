@@ -2,4 +2,4 @@
 
 ## lazy-loded-list
 ### 
-![](intro.png)
+![](intro.gif)
